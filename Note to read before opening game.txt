@@ -1,0 +1,21 @@
+To run this game you need to have two eternal modules for python. The keyboard module and colorama.
+If you don't have them they need to be installed through the command propmt:
+
+1) Go in your documents on your laptpop and locate youur python39, NOT python3.9 (or whatever version of python you have) folder
+2) Go on scripts 
+3) Copy the file path by right clicking on scripts in the adress bar and then on copy adress as text
+4) Open your command prompt by searching "command prompt" in the windows search box.
+5) Open the command prompt and type: "cd" and the press spacebar, now copy your python scripts adress by pressing CTRL + V and then enter
+6) If done correctly the path the command prompt uses should have changed to your python scripts path, 
+for example mine was: "C:\Users\elvis\AppData\Local\Programs\Python\Python39\Scripts"
+7) Now type "pip"
+8)Wait for it to load
+9) Now type "pip install keyboard"
+If an error was given go to this website (https://pypi.org/project/keyboard/) and dowload from here
+by clicking on the green box in the top right
+10) Try to type "pip install keyboard" again in the command prompt
+11) Once you've installed the keyboard module type "pip install colorama"
+12) Again if an error was given go here (https://pypi.org/project/colorama/) and download colorama
+13) Try to install colorama from command propmt again by typing "pip intall colorama"
+
+Now you should be able to run the game.
