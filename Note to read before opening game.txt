@@ -1,5 +1,5 @@
 To run this game you need to have two eternal modules for python. The keyboard module and colorama.
-If you don't have them they need to be installed through the command propmt:
+If you don't have them they need to be installed through the command prompt:
 
 1) Go in your documents on your laptpop and locate youur python39, NOT python3.9 (or whatever version of python you have) folder
 2) Go on scripts 
